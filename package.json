@@ -1,0 +1,16 @@
+{
+  "name": "cypress2homeworkapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress-dashboard": "npx cypress run --record --key b2e86a0e-d035-4805-9ef0-8987f21806ba"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "cypress": "^11.0.1"
+  }
+}
